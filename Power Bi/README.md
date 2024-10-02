@@ -46,10 +46,14 @@ The following Power Bi features were incorporated:
 #### Dashboard 1
 ![Alt text](Dashboard1.png)
 
+When clicking Profit/Non_Profit in Bar Chart in Dashboard1 its navigated to Profit/Non_Profit based on the selection through Drill-through.
+      
+ Profit                                          |                  Non_Profit
+:-----------------------------------------------:|:----------------------------------------------:
+![Alt text](Profit.png)                          |  ![Alt text](Non_Profit.png)
+
+
 #### Dashboard 2
 ![Alt text](Dashboard2.png)
-
-#### Sub Dashboard
-![Alt text](Sub_Dash.png)
 
 
