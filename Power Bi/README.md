@@ -4,7 +4,7 @@
 This is a power Bi Project on HealthCare Dialysis. The project is to analyze and derive insights to answer crucial 
 questions and help the healthcare provider to provide better and timely treatment to the patient.
 
-### Data Set : 2 Data Sets Provided
+### Data Set : 2 Large datasets provided for analysis
 
 ### Problem Statement
 1. Number of Patients across various summaries
