@@ -35,5 +35,5 @@ questions and help the healthcare provider to provide better and timely treatmen
 ![](Data_Model.png)
 
 ## DASHBOARD
-![](Images/Excel_Dashboard.png)
+![](Excel_Dashboard.png)
 
