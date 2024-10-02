@@ -41,15 +41,15 @@ The following Power Bi features were incorporated:
 
 ## DashBoard: 
 #### Main Dashboard
-![Alt text](Main_DashBoard.png)
+![Alt text](Main_Dashboard.png)
 
 #### Dashboard 1
-![Alt text](DashBoard1.png)
+![Alt text](Dashboard1.png)
 
 #### Dashboard 2
-![Alt text](DashBoard2.png)
+![Alt text](Dashboard2.png)
 
 #### Sub Dashboard
-![Alt text](SubDash.png)
+![Alt text](Sub_Dash.png)
 
 
