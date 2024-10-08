@@ -38,7 +38,7 @@ The following Tableau features were incorporated:
 ### Data Source Connectivity and Modelling:
 ![Alt text](images/Data_Model.png)
 ### Main Dashboard
-![Alt text](images/Main_dash1.png)
+![Alt text](images/Main_Dash1.png)
 #### Other Interactive Dashboards based on KPI's from main Dashboard
 
 ![Alt text](images/2.png)
