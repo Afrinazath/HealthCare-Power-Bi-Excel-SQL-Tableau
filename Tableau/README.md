@@ -8,12 +8,22 @@ questions and help the store make data driven decisions.
 ### Dashboard : [Click here to access interactive Dashboard in Tableau Public](https://public.tableau.com/shared/T687XJCD3?:display_count=n&:origin=viz_share_link)
 
 ### Problem Statement
-1. Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
-2. Number of Orders with review score 5 and payment type as credit card.
-3. Average number of days taken for order_delivered_customer_date for pet_shop
-4. Average price and payment values from customers of sao paulo city
-5. Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
+1. Number of Patients across various summaries
 
+2. Profit Vs Non-Profit Stats
+
+3. Top 3 Chain Organizations in terms of no. of dialysis stations
+
+4. Dialysis Stations Stats
+
+5. No of Category Text  - As Expected
+
+6. No of Score Applied – Improvement
+
+7. Top 3 Facilities in terms of Total Performance Score
+
+8. Average Payment Reduction Rate
+   
 #### Skills Used :
 The following Tableau features were incorporated:
 
